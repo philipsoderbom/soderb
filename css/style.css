@@ -1,0 +1,92 @@
+.namn{
+	padding: 15px 0px 20px 15px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 60px;
+	color: #FEBE10;
+
+}
+.navbar{
+	background-color: #00529F;
+
+}
+.h1{
+	padding-right: 20px;
+	font-weight: bold;
+	font-family: Verdana;
+	font-size: 24px;
+}
+.container{
+	
+	background-color: lightgray; 
+	border-radius: 30px;
+	border:solid #EE324E 8px;
+}
+.Rcontainer{
+	background-color: black;
+	padding-bottom: 22px;
+	height: 120%;
+
+
+}
+body{
+	font-family: Verdana;
+	height: 100%;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+
+}
+html, body{
+	height: 100%;
+	font-family: Verdana;
+}
+.link{
+	color: red;
+}
+.row{
+	margin: 9px 1px 2px -5px;
+
+}
+.col1{
+	border: 2px solid #00529F;
+	border-radius: 25px;
+	margin: 4px 0px 6px 4px;
+}
+.spelartrupp{
+	border: 2px solid #00529F;
+	border-radius: 6px;
+	font-size: 17px;
+
+}
+.top{
+	font-weight: bold;
+}
+.titlar{
+	border: 2px solid #00529F;
+	border-radius: 6px;
+	font-size: 17px;
+	
+
+}
+.klubben{
+	border: 2px solid #00529F;
+	border-radius: 6px;
+	font-size: 17px;
+}
+.startsida{
+	border: 2px solid #00529F;
+	border-radius: 6px;
+	font-size: 17px;
+}
+.empty{
+	background-color: black;
+	color: #FEBE10;
+	font-weight: bold;
+	padding-top: 120px; 
+	text-align: center;
+	font-size: 30px;	
+}
+
